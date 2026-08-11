@@ -25,11 +25,7 @@ A simple and responsive task management application built with **HTML, CSS, and 
 ## 🚀 Live Demo
 
 🔗 **Live Demo**  
-*Add your deployed To-Do List link here*
-
-## 💻 Source Code
-
-https://github.com/monishas2k3/to-do-list
+https://monishas2k3.github.io/to-do-list/
 
 ---
 
