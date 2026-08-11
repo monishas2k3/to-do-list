@@ -31,14 +31,14 @@ https://monishas2k3.github.io/to-do-list/
 
 ## 📂 Project Structure
 
----
+```
 to-do-list/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
----
+```
 
 ---
 
