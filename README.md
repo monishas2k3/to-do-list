@@ -29,15 +29,20 @@ https://monishas2k3.github.io/to-do-list/
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
+
+---
 to-do-list/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+---
 
-👩‍💻 Author
+---
+
+## 👩‍💻 Author
 Monisha S
 
 🔗 GitHub: https://github.com/monishas2k3
